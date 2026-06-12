@@ -8,14 +8,14 @@ This is a tutorial for building and deploying NP library
  * bullet 1
  * bullet 2
 
-'''c++
+```c++
 #include "myMatrix.h"
 
 int x;
 for(int i=0;i<Max;++){
 
 }
-'''
+```
 
 The project's main code should be named as `myTutorial.h'
 ```python
